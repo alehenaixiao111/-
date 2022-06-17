@@ -1,0 +1,1 @@
+export const tab = () => console.log('嗷嗷嗷嗷');

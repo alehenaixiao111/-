@@ -1,0 +1,1 @@
+export const marquue = () => console.log('难难难');
