@@ -24,5 +24,7 @@
   },
   "dependencies": {
     "vue": "^3.2.36"
-  }
+  },
+  "repository": "git@github.com:alehenaixiao111/-.git",
+  "author": "alehenaixiao111 <1420666079@qq.com>"
 }

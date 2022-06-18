@@ -6,7 +6,7 @@
    const {join} =  require ('path')
     module.exports = {
         mode:'development',
-        entry:'./src/main.js',
+        entry:'./src/index.js',
         output:{
             path:join(__dirname,'lib'),
             filename:'working-demo.js',
