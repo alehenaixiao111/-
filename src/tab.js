@@ -1,0 +1,1 @@
+export const tab =()=> console.log('tab逻辑已执行');
